@@ -8,7 +8,7 @@ The project connects the HTTP server and client.
  > When the URL opens, the HTTP server grabs the contents of the scraped [server](https://docs.python.org/3/library/socketserver.html#module-socketserver) and returns a file-like object representing such a response as an output.    
 # Library Used: 
  * Import Error
- > Import error: library is a Python mechanism to handle exceptions and errors. The created objects may represent errors that occur as the program runs or executes. There should be a mechanism to handle that as part of Python's built-in functionalities. In [MlengelaHttpConnection]() 
+ > Import error: The library is a Python mechanism for handling exceptions and errors. The created objects may represent errors that occur as the program runs or executes. There should be a mechanism to handle that as part of Python's built-in functionalities. In [MlengelaHttpConnection](https://github.com/CIS1250Python/MlengelaHttpConnection.git) distutils.log module is retrieved from the distutils package to provide a simple logging mechanism for distutils operations. 
  * Import Sys
  * Import http.client
 # Features:
